@@ -1,0 +1,14 @@
+.form-header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.form-header img {
+  width: 160px;
+  height: 120px;
+}
+.form-header p {
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 25px;
+}
